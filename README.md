@@ -1,2 +1,2 @@
 # PratikTemelOOP
-Temel OOP yapıları 
+Temel OOP yapıları - Nesne Türetme - Constructor Metod
