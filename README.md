@@ -1,0 +1,2 @@
+# PratikTemelOOP
+Temel OOP yapıları 
